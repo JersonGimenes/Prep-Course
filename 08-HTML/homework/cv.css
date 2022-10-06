@@ -1,0 +1,24 @@
+.titulo{
+    color: red;
+    font-size: 50px;
+    background: lightblue;
+    display: grid;
+    place-items: center;
+    border: 2px solid blue;
+}
+h1{
+    color:blue;
+    font-size: 20px;
+}
+p{
+    color: black;
+    font-size: 15px;
+}
+ul{
+    color: black;
+    font-size: 15px; 
+}
+img{
+    height: 100px;
+    width: 200px;
+}
